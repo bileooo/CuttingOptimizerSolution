@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CuttingOptimizer.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CuttingOptimizer.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CuttingOptimizer.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuttingOptimizer.Models/1.0.0": {
+      "type": "project",
+      "path": "../CuttingOptimizer.Models/CuttingOptimizer.Models.csproj",
+      "msbuildProject": "../CuttingOptimizer.Models/CuttingOptimizer.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CuttingOptimizer.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zbx\\.nuget\\packages\\": {},
+    "D:\\visusl studio 2022 2\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\一维下料实习算法改进\\CuttingOptimizerSolution\\CuttingOptimizer.Core\\CuttingOptimizer.Core.csproj",
+      "projectName": "CuttingOptimizer.Core",
+      "projectPath": "D:\\一维下料实习算法改进\\CuttingOptimizerSolution\\CuttingOptimizer.Core\\CuttingOptimizer.Core.csproj",
+      "packagesPath": "C:\\Users\\zbx\\.nuget\\packages\\",
+      "outputPath": "D:\\一维下料实习算法改进\\CuttingOptimizerSolution\\CuttingOptimizer.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\visusl studio 2022 2\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\zbx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.cdn.azure.cn/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\一维下料实习算法改进\\CuttingOptimizerSolution\\CuttingOptimizer.Models\\CuttingOptimizer.Models.csproj": {
+              "projectPath": "D:\\一维下料实习算法改进\\CuttingOptimizerSolution\\CuttingOptimizer.Models\\CuttingOptimizer.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

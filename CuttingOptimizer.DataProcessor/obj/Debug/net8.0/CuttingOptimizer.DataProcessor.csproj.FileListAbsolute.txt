@@ -1,0 +1,15 @@
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\bin\Debug\net8.0\CuttingOptimizer.DataProcessor.deps.json
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\bin\Debug\net8.0\CuttingOptimizer.DataProcessor.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\bin\Debug\net8.0\CuttingOptimizer.DataProcessor.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\bin\Debug\net8.0\CuttingOptimizer.Models.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\bin\Debug\net8.0\CuttingOptimizer.Models.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.csproj.AssemblyReference.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.AssemblyInfoInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.AssemblyInfo.cs
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.csproj.CoreCompileInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingO.C08E15E1.Up2Date
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\refint\CuttingOptimizer.DataProcessor.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\CuttingOptimizer.DataProcessor.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.DataProcessor\obj\Debug\net8.0\ref\CuttingOptimizer.DataProcessor.dll

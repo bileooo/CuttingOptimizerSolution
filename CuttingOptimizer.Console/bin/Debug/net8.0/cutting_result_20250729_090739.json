@@ -1,0 +1,3456 @@
+{
+  "Timestamp": "2025-07-29T09:07:39.9834019+08:00",
+  "MaterialLength": 2000,
+  "MinJointLength": 200,
+  "Results": [
+    {
+      "FunctionType": "线槽",
+      "MaterialsUsed": 45,
+      "TotalUsedLength": 88351,
+      "MaterialUtilization": 0.9817,
+      "TotalWaste": 617,
+      "TotalHoleWaste": 0,
+      "CuttingPlans": [
+        {
+          "MaterialId": "M001",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.9968,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1644,
+              "DiagramPosition": "44",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U31",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1644
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "237",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U97",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1644,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M002",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.9968,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1644,
+              "DiagramPosition": "44",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U31",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1644
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "238",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U98",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1644,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M003",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.9968,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1644,
+              "DiagramPosition": "44",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U31",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1644
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "368",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U231",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1644,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M004",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.9968,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1644,
+              "DiagramPosition": "44",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U31",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1644
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "369",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U232",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1644,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M005",
+          "MaterialLength": 2000,
+          "UsedLength": 1974,
+          "RemainingLength": 26,
+          "Utilization": 0.9868,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1574,
+              "DiagramPosition": "18",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U130",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1574
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 400,
+              "DiagramPosition": "47",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U189",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1574,
+              "EndPosition": 1974
+            }
+          ]
+        },
+        {
+          "MaterialId": "M006",
+          "MaterialLength": 2000,
+          "UsedLength": 1974,
+          "RemainingLength": 26,
+          "Utilization": 0.9868,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1574,
+              "DiagramPosition": "18",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U130",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1574
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 400,
+              "DiagramPosition": "47",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U189",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1574,
+              "EndPosition": 1974
+            }
+          ]
+        },
+        {
+          "MaterialId": "M007",
+          "MaterialLength": 2000,
+          "UsedLength": 1960,
+          "RemainingLength": 40,
+          "Utilization": 0.98,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 1570,
+              "DiagramPosition": "25",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U23",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1570
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 390,
+              "DiagramPosition": "7",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U454",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1570,
+              "EndPosition": 1960
+            }
+          ]
+        },
+        {
+          "MaterialId": "M008",
+          "MaterialLength": 2000,
+          "UsedLength": 1960,
+          "RemainingLength": 40,
+          "Utilization": 0.98,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1570,
+              "DiagramPosition": "26",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U24",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1570
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 390,
+              "DiagramPosition": "8",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U455",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1570,
+              "EndPosition": 1960
+            }
+          ]
+        },
+        {
+          "MaterialId": "M009",
+          "MaterialLength": 2000,
+          "UsedLength": 1960,
+          "RemainingLength": 40,
+          "Utilization": 0.98,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 1570,
+              "DiagramPosition": "25",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U23",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1570
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 390,
+              "DiagramPosition": "7",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U454",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1570,
+              "EndPosition": 1960
+            }
+          ]
+        },
+        {
+          "MaterialId": "M010",
+          "MaterialLength": 2000,
+          "UsedLength": 1960,
+          "RemainingLength": 40,
+          "Utilization": 0.98,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1570,
+              "DiagramPosition": "26",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U24",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1570
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 390,
+              "DiagramPosition": "8",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U455",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1570,
+              "EndPosition": 1960
+            }
+          ]
+        },
+        {
+          "MaterialId": "M011",
+          "MaterialLength": 2000,
+          "UsedLength": 1995,
+          "RemainingLength": 5,
+          "Utilization": 0.9975,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1345,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U153",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1345
+            },
+            {
+              "PartName": "线槽(80*35)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U207",
+              "PartNumber": "80*35",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1345,
+              "EndPosition": 1685
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 310,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U30",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1685,
+              "EndPosition": 1995
+            }
+          ]
+        },
+        {
+          "MaterialId": "M012",
+          "MaterialLength": 2000,
+          "UsedLength": 1995,
+          "RemainingLength": 5,
+          "Utilization": 0.9975,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1345,
+              "DiagramPosition": "15",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U154",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1345
+            },
+            {
+              "PartName": "线槽(80*35)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U207",
+              "PartNumber": "80*35",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1345,
+              "EndPosition": 1685
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 310,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U30",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1685,
+              "EndPosition": 1995
+            }
+          ]
+        },
+        {
+          "MaterialId": "M013",
+          "MaterialLength": 2000,
+          "UsedLength": 1995,
+          "RemainingLength": 5,
+          "Utilization": 0.9975,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1345,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U153",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1345
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U224",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1345,
+              "EndPosition": 1685
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 310,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U30",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1685,
+              "EndPosition": 1995
+            }
+          ]
+        },
+        {
+          "MaterialId": "M014",
+          "MaterialLength": 2000,
+          "UsedLength": 1995,
+          "RemainingLength": 5,
+          "Utilization": 0.9975,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 1345,
+              "DiagramPosition": "15",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U154",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1345
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U224",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1345,
+              "EndPosition": 1685
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 310,
+              "DiagramPosition": "14",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U30",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1685,
+              "EndPosition": 1995
+            }
+          ]
+        },
+        {
+          "MaterialId": "M015",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9993,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 1174,
+              "DiagramPosition": "19",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U132",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1174
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 275,
+              "DiagramPosition": "182",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U54",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1174,
+              "EndPosition": 1449
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 275,
+              "DiagramPosition": "183",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U55",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1449,
+              "EndPosition": 1724
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 275,
+              "DiagramPosition": "182",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U54",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1724,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M016",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9993,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 1174,
+              "DiagramPosition": "19",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U132",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 1174
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 280,
+              "DiagramPosition": "46",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U188",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1174,
+              "EndPosition": 1454
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 280,
+              "DiagramPosition": "46",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U188",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1454,
+              "EndPosition": 1734
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "65",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U195",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1734,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M017",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 889,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U155",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 460,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U208",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1349
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "237",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U97",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1349,
+              "EndPosition": 1699
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "239",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U99",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1699,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M018",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 889,
+              "DiagramPosition": "24",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U162",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 460,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U208",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1349
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "238",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U98",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1349,
+              "EndPosition": 1699
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "240",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U100",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1699,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M019",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 889,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U155",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 290,
+              "DiagramPosition": "8",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U227",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1179
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 290,
+              "DiagramPosition": "7",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U226",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1179,
+              "EndPosition": 1469
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "81",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U199",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1469,
+              "EndPosition": 1734
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "80",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U198",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1734,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M020",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 889,
+              "DiagramPosition": "24",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U162",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 290,
+              "DiagramPosition": "8",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U227",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1179
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 290,
+              "DiagramPosition": "7",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U226",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1179,
+              "EndPosition": 1469
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "80",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U198",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1469,
+              "EndPosition": 1734
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "65",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U195",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1734,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M021",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U21",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "25",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U163",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "28",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U26",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M022",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U21",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "26",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U164",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "29",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U27",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M023",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U21",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "27",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U165",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "30",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U28",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M024",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U21",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "25",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U163",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "31",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U29",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M025",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U123",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "26",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U164",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "231",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U92",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M026",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 889,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U123",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 889
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 625,
+              "DiagramPosition": "27",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U165",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 889,
+              "EndPosition": 1514
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 484,
+              "DiagramPosition": "232",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U93",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1514,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M027",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U35",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*35)",
+              "Length": 500,
+              "DiagramPosition": "64",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U194",
+              "PartNumber": "80*35",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1309
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "368",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U231",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1309,
+              "EndPosition": 1659
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U452",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1659,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M028",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U35",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 500,
+              "DiagramPosition": "79",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U197",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1309
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "369",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U232",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1309,
+              "EndPosition": 1659
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U453",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1659,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M029",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U35",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*35)",
+              "Length": 500,
+              "DiagramPosition": "64",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U194",
+              "PartNumber": "80*35",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1309
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "15",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U127",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1309,
+              "EndPosition": 1659
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "9",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U456",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1659,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M030",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U35",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 500,
+              "DiagramPosition": "79",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U197",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1309
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "15",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U127",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1309,
+              "EndPosition": 1659
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U452",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1659,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M031",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U35",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "48",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U190",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1159
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "239",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U99",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1159,
+              "EndPosition": 1459
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 275,
+              "DiagramPosition": "183",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U55",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1459,
+              "EndPosition": 1734
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 265,
+              "DiagramPosition": "81",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U199",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1734,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M032",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U125",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 350,
+              "DiagramPosition": "48",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U190",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1159
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "49",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U191",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1159,
+              "EndPosition": 1459
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "240",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U100",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1459,
+              "EndPosition": 1759
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 240,
+              "DiagramPosition": "20",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U133",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1759,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M033",
+          "MaterialLength": 2000,
+          "UsedLength": 1999,
+          "RemainingLength": 1,
+          "Utilization": 0.9995,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 809,
+              "DiagramPosition": "13",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U125",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 809
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 665,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U212",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 809,
+              "EndPosition": 1474
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 300,
+              "DiagramPosition": "49",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U191",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1474,
+              "EndPosition": 1774
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "185",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U57",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1774,
+              "EndPosition": 1999
+            }
+          ]
+        },
+        {
+          "MaterialId": "M034",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.997,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 800,
+              "DiagramPosition": "527",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U9",
+              "DeviceIdentifier": "U243",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 800
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 614,
+              "DiagramPosition": "24",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U22",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 800,
+              "EndPosition": 1414
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U453",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1414,
+              "EndPosition": 1754
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 240,
+              "DiagramPosition": "20",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U133",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1754,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M035",
+          "MaterialLength": 2000,
+          "UsedLength": 1994,
+          "RemainingLength": 6,
+          "Utilization": 0.997,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 800,
+              "DiagramPosition": "527",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U9",
+              "DeviceIdentifier": "U243",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 800
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 614,
+              "DiagramPosition": "27",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U25",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 800,
+              "EndPosition": 1414
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 340,
+              "DiagramPosition": "9",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U456",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1414,
+              "EndPosition": 1754
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 240,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U225",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1754,
+              "EndPosition": 1994
+            }
+          ]
+        },
+        {
+          "MaterialId": "M036",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U32",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 700,
+              "DiagramPosition": "184",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U56",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1459
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 539,
+              "DiagramPosition": "142",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U43",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1459,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M037",
+          "MaterialLength": 2000,
+          "UsedLength": 1998,
+          "RemainingLength": 2,
+          "Utilization": 0.999,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U32",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 700,
+              "DiagramPosition": "184",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U56",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1459
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 539,
+              "DiagramPosition": "367",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U230",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1459,
+              "EndPosition": 1998
+            }
+          ]
+        },
+        {
+          "MaterialId": "M038",
+          "MaterialLength": 2000,
+          "UsedLength": 1988,
+          "RemainingLength": 12,
+          "Utilization": 0.994,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U32",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 539,
+              "DiagramPosition": "142",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U43",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1298
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 240,
+              "DiagramPosition": "6",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U225",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1298,
+              "EndPosition": 1538
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "187",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U10",
+              "DeviceIdentifier": "U59",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1538,
+              "EndPosition": 1763
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "186",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U10",
+              "DeviceIdentifier": "U58",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1763,
+              "EndPosition": 1988
+            }
+          ]
+        },
+        {
+          "MaterialId": "M039",
+          "MaterialLength": 2000,
+          "UsedLength": 1987,
+          "RemainingLength": 13,
+          "Utilization": 0.9935,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U32",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 614,
+              "DiagramPosition": "27",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U25",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1373
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 614,
+              "DiagramPosition": "24",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U22",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1373,
+              "EndPosition": 1987
+            }
+          ]
+        },
+        {
+          "MaterialId": "M040",
+          "MaterialLength": 2000,
+          "UsedLength": 1973,
+          "RemainingLength": 27,
+          "Utilization": 0.9865,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U124",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 539,
+              "DiagramPosition": "367",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U15",
+              "DeviceIdentifier": "U230",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1298
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "187",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U10",
+              "DeviceIdentifier": "U59",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1298,
+              "EndPosition": 1523
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "186",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U10",
+              "DeviceIdentifier": "U58",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1523,
+              "EndPosition": 1748
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 225,
+              "DiagramPosition": "185",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U57",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1748,
+              "EndPosition": 1973
+            }
+          ]
+        },
+        {
+          "MaterialId": "M041",
+          "MaterialLength": 2000,
+          "UsedLength": 1972,
+          "RemainingLength": 28,
+          "Utilization": 0.986,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 759,
+              "DiagramPosition": "12",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U124",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 759
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "18",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U156",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 759,
+              "EndPosition": 1488
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "28",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U26",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1488,
+              "EndPosition": 1972
+            }
+          ]
+        },
+        {
+          "MaterialId": "M042",
+          "MaterialLength": 2000,
+          "UsedLength": 1942,
+          "RemainingLength": 58,
+          "Utilization": 0.971,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "19",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U157",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 729
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "20",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U158",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 729,
+              "EndPosition": 1458
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "29",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U27",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1458,
+              "EndPosition": 1942
+            }
+          ]
+        },
+        {
+          "MaterialId": "M043",
+          "MaterialLength": 2000,
+          "UsedLength": 1942,
+          "RemainingLength": 58,
+          "Utilization": 0.971,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "18",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U156",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 729
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "19",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U157",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 729,
+              "EndPosition": 1458
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "30",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U28",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1458,
+              "EndPosition": 1942
+            }
+          ]
+        },
+        {
+          "MaterialId": "M044",
+          "MaterialLength": 2000,
+          "UsedLength": 1878,
+          "RemainingLength": 122,
+          "Utilization": 0.939,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 729,
+              "DiagramPosition": "20",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U158",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 729
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 665,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U212",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 729,
+              "EndPosition": 1394
+            },
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "31",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U29",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 1394,
+              "EndPosition": 1878
+            }
+          ]
+        },
+        {
+          "MaterialId": "M045",
+          "MaterialLength": 2000,
+          "UsedLength": 968,
+          "RemainingLength": 1032,
+          "Utilization": 0.484,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "线槽(80*50)",
+              "Length": 484,
+              "DiagramPosition": "231",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U92",
+              "PartNumber": "80*50",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 0,
+              "EndPosition": 484
+            },
+            {
+              "PartName": "线槽(80*80)",
+              "Length": 484,
+              "DiagramPosition": "232",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U93",
+              "PartNumber": "80*80",
+              "FunctionDefinition": "线槽",
+              "StartPosition": 484,
+              "EndPosition": 968
+            }
+          ]
+        }
+      ],
+      "OversizedParts": [],
+      "Warnings": [],
+      "Suggestions": []
+    },
+    {
+      "FunctionType": "安装导轨",
+      "MaterialsUsed": 19,
+      "TotalUsedLength": 34809,
+      "MaterialUtilization": 0.916,
+      "TotalWaste": 1271,
+      "TotalHoleWaste": 0,
+      "CuttingPlans": [
+        {
+          "MaterialId": "M001",
+          "MaterialLength": 2000,
+          "UsedLength": 1974,
+          "RemainingLength": 12,
+          "Utilization": 0.9868,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 1174,
+              "DiagramPosition": "27",
+              "LayoutSpace": "=+ (1105.S4)",
+              "MountingBoard": "U134",
+              "DeviceIdentifier": "U140",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 1179
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 800,
+              "DiagramPosition": "528",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U242",
+              "DeviceIdentifier": "U244",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1188,
+              "EndPosition": 1988
+            }
+          ]
+        },
+        {
+          "MaterialId": "M002",
+          "MaterialLength": 2000,
+          "UsedLength": 1959,
+          "RemainingLength": 22,
+          "Utilization": 0.9795,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 800,
+              "DiagramPosition": "528",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U242",
+              "DeviceIdentifier": "U244",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 805
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U37",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 811,
+              "EndPosition": 1570
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 400,
+              "DiagramPosition": "85",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U202",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1578,
+              "EndPosition": 1978
+            }
+          ]
+        },
+        {
+          "MaterialId": "M003",
+          "MaterialLength": 2000,
+          "UsedLength": 1918,
+          "RemainingLength": 61,
+          "Utilization": 0.959,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U38",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U37",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1531
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 400,
+              "DiagramPosition": "85",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U202",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1539,
+              "EndPosition": 1939
+            }
+          ]
+        },
+        {
+          "MaterialId": "M004",
+          "MaterialLength": 2000,
+          "UsedLength": 1868,
+          "RemainingLength": 111,
+          "Utilization": 0.934,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1101)",
+              "MountingBoard": "U20",
+              "DeviceIdentifier": "U38",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U90",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1531
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 350,
+              "DiagramPosition": "376",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U233",
+              "DeviceIdentifier": "U239",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1539,
+              "EndPosition": 1889
+            }
+          ]
+        },
+        {
+          "MaterialId": "M005",
+          "MaterialLength": 2000,
+          "UsedLength": 1868,
+          "RemainingLength": 111,
+          "Utilization": 0.934,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U91",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U90",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1531
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 350,
+              "DiagramPosition": "377",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U235",
+              "DeviceIdentifier": "U240",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1539,
+              "EndPosition": 1889
+            }
+          ]
+        },
+        {
+          "MaterialId": "M006",
+          "MaterialLength": 2000,
+          "UsedLength": 1868,
+          "RemainingLength": 111,
+          "Utilization": 0.934,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1102)",
+              "MountingBoard": "U89",
+              "DeviceIdentifier": "U91",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U128",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1531
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 350,
+              "DiagramPosition": "378",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U237",
+              "DeviceIdentifier": "U241",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1539,
+              "EndPosition": 1889
+            }
+          ]
+        },
+        {
+          "MaterialId": "M007",
+          "MaterialLength": 2000,
+          "UsedLength": 1858,
+          "RemainingLength": 121,
+          "Utilization": 0.929,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U129",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "16",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U128",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1531
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 340,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U457",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1539,
+              "EndPosition": 1879
+            }
+          ]
+        },
+        {
+          "MaterialId": "M008",
+          "MaterialLength": 2000,
+          "UsedLength": 1938,
+          "RemainingLength": 26,
+          "Utilization": 0.969,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 759,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U129",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 764
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "21",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U159",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 772,
+              "EndPosition": 1501
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 340,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U458",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1513,
+              "EndPosition": 1853
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 110,
+              "DiagramPosition": "103",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U245",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1864,
+              "EndPosition": 1974
+            }
+          ]
+        },
+        {
+          "MaterialId": "M009",
+          "MaterialLength": 2000,
+          "UsedLength": 1942,
+          "RemainingLength": 29,
+          "Utilization": 0.971,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "22",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U160",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 734
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "23",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U161",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 746,
+              "EndPosition": 1475
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "35",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U33",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1487,
+              "EndPosition": 1971
+            }
+          ]
+        },
+        {
+          "MaterialId": "M010",
+          "MaterialLength": 2000,
+          "UsedLength": 1942,
+          "RemainingLength": 29,
+          "Utilization": 0.971,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "21",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U159",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 734
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "22",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U160",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 746,
+              "EndPosition": 1475
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "36",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U34",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1487,
+              "EndPosition": 1971
+            }
+          ]
+        },
+        {
+          "MaterialId": "M011",
+          "MaterialLength": 2000,
+          "UsedLength": 1948,
+          "RemainingLength": 13,
+          "Utilization": 0.974,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 729,
+              "DiagramPosition": "23",
+              "LayoutSpace": "=+ (1109)",
+              "MountingBoard": "U148",
+              "DeviceIdentifier": "U161",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 734
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 625,
+              "DiagramPosition": "121",
+              "LayoutSpace": "=+ (1109.S5)",
+              "MountingBoard": "U166",
+              "DeviceIdentifier": "U178",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 746,
+              "EndPosition": 1371
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U36",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1383,
+              "EndPosition": 1867
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 110,
+              "DiagramPosition": "103",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U245",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1877,
+              "EndPosition": 1987
+            }
+          ]
+        },
+        {
+          "MaterialId": "M012",
+          "MaterialLength": 2000,
+          "UsedLength": 1875,
+          "RemainingLength": 96,
+          "Utilization": 0.9375,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 625,
+              "DiagramPosition": "122",
+              "LayoutSpace": "=+ (1109.S5)",
+              "MountingBoard": "U169",
+              "DeviceIdentifier": "U179",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 630
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 625,
+              "DiagramPosition": "123",
+              "LayoutSpace": "=+ (1109.S5)",
+              "MountingBoard": "U172",
+              "DeviceIdentifier": "U180",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 642,
+              "EndPosition": 1267
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 625,
+              "DiagramPosition": "124",
+              "LayoutSpace": "=+ (1109.S5)",
+              "MountingBoard": "U175",
+              "DeviceIdentifier": "U181",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1279,
+              "EndPosition": 1904
+            }
+          ]
+        },
+        {
+          "MaterialId": "M013",
+          "MaterialLength": 2000,
+          "UsedLength": 1936,
+          "RemainingLength": 29,
+          "Utilization": 0.9681,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "43",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U40",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 489
+            },
+            {
+              "PartName": "安装导轨(高导轨)",
+              "Length": 484,
+              "DiagramPosition": "179",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U52",
+              "PartNumber": "高导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 499,
+              "EndPosition": 983
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "35",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U33",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 993,
+              "EndPosition": 1477
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "36",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U34",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1487,
+              "EndPosition": 1971
+            }
+          ]
+        },
+        {
+          "MaterialId": "M014",
+          "MaterialLength": 2000,
+          "UsedLength": 1792,
+          "RemainingLength": 173,
+          "Utilization": 0.896,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "38",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U36",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 489
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 484,
+              "DiagramPosition": "43",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U40",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 499,
+              "EndPosition": 983
+            },
+            {
+              "PartName": "安装导轨(高导轨)",
+              "Length": 484,
+              "DiagramPosition": "179",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U52",
+              "PartNumber": "高导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 993,
+              "EndPosition": 1477
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 340,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U457",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1487,
+              "EndPosition": 1827
+            }
+          ]
+        },
+        {
+          "MaterialId": "M015",
+          "MaterialLength": 2000,
+          "UsedLength": 1820,
+          "RemainingLength": 119,
+          "Utilization": 0.91,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 340,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (9512)",
+              "MountingBoard": "U450",
+              "DeviceIdentifier": "U458",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 345
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 300,
+              "DiagramPosition": "249",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U101",
+              "DeviceIdentifier": "U109",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 356,
+              "EndPosition": 656
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 300,
+              "DiagramPosition": "250",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U103",
+              "DeviceIdentifier": "U110",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 668,
+              "EndPosition": 968
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 300,
+              "DiagramPosition": "251",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U105",
+              "DeviceIdentifier": "U111",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 980,
+              "EndPosition": 1280
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 290,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U214",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1292,
+              "EndPosition": 1582
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 290,
+              "DiagramPosition": "17",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U214",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1591,
+              "EndPosition": 1881
+            }
+          ]
+        },
+        {
+          "MaterialId": "M016",
+          "MaterialLength": 2000,
+          "UsedLength": 1867,
+          "RemainingLength": 91,
+          "Utilization": 0.9334,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 283,
+              "DiagramPosition": "83",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U141",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 288
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 283,
+              "DiagramPosition": "83",
+              "LayoutSpace": "=+ (1105)",
+              "MountingBoard": "U119",
+              "DeviceIdentifier": "U141",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 291,
+              "EndPosition": 574
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 265,
+              "DiagramPosition": "82",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U200",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 577,
+              "EndPosition": 842
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 265,
+              "DiagramPosition": "83",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U201",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 850,
+              "EndPosition": 1115
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 265,
+              "DiagramPosition": "82",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U200",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1123,
+              "EndPosition": 1388
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 265,
+              "DiagramPosition": "83",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U184",
+              "DeviceIdentifier": "U201",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1396,
+              "EndPosition": 1661
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 240,
+              "DiagramPosition": "9",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U228",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1669,
+              "EndPosition": 1909
+            }
+          ]
+        },
+        {
+          "MaterialId": "M017",
+          "MaterialLength": 2000,
+          "UsedLength": 1855,
+          "RemainingLength": 93,
+          "Utilization": 0.9275,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 240,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U229",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 245
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 240,
+              "DiagramPosition": "9",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U228",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 252,
+              "EndPosition": 492
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 240,
+              "DiagramPosition": "10",
+              "LayoutSpace": "=+ (9900)",
+              "MountingBoard": "U222",
+              "DeviceIdentifier": "U229",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 499,
+              "EndPosition": 739
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 230,
+              "DiagramPosition": "59",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U193",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 746,
+              "EndPosition": 976
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 230,
+              "DiagramPosition": "59",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U193",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 980,
+              "EndPosition": 1210
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "188",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U60",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1214,
+              "EndPosition": 1439
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "189",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U61",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1448,
+              "EndPosition": 1673
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "190",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U62",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1682,
+              "EndPosition": 1907
+            }
+          ]
+        },
+        {
+          "MaterialId": "M018",
+          "MaterialLength": 2000,
+          "UsedLength": 1901,
+          "RemainingLength": 24,
+          "Utilization": 0.9505,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "191",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U63",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 230
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "188",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U60",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 239,
+              "EndPosition": 464
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "189",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U61",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 473,
+              "EndPosition": 698
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "190",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U62",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 707,
+              "EndPosition": 932
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 225,
+              "DiagramPosition": "191",
+              "LayoutSpace": "=+ (1110.S1)",
+              "MountingBoard": "U53",
+              "DeviceIdentifier": "U63",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 941,
+              "EndPosition": 1166
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 198,
+              "DiagramPosition": "233",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U94",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1175,
+              "EndPosition": 1373
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 198,
+              "DiagramPosition": "233",
+              "LayoutSpace": "=+ (1110)",
+              "MountingBoard": "U7",
+              "DeviceIdentifier": "U94",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1383,
+              "EndPosition": 1581
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 190,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9501)",
+              "MountingBoard": "U217",
+              "DeviceIdentifier": "U219",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1591,
+              "EndPosition": 1781
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 190,
+              "DiagramPosition": "5",
+              "LayoutSpace": "=+ (9501)",
+              "MountingBoard": "U217",
+              "DeviceIdentifier": "U219",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 1786,
+              "EndPosition": 1976
+            }
+          ]
+        },
+        {
+          "MaterialId": "M019",
+          "MaterialLength": 2000,
+          "UsedLength": 680,
+          "RemainingLength": 1279,
+          "Utilization": 0.34,
+          "IsRemainingMaterial": false,
+          "HoleConstraintWaste": 0,
+          "CutParts": [
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 170,
+              "DiagramPosition": "50",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U192",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 5,
+              "EndPosition": 175
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 170,
+              "DiagramPosition": "50",
+              "LayoutSpace": "=+ (5201)",
+              "MountingBoard": "U183",
+              "DeviceIdentifier": "U192",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 187,
+              "EndPosition": 357
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 170,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U213",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 369,
+              "EndPosition": 539
+            },
+            {
+              "PartName": "安装导轨(常规导轨)",
+              "Length": 170,
+              "DiagramPosition": "11",
+              "LayoutSpace": "=+ (9301)",
+              "MountingBoard": "U204",
+              "DeviceIdentifier": "U213",
+              "PartNumber": "常规导轨",
+              "FunctionDefinition": "安装导轨",
+              "StartPosition": 551,
+              "EndPosition": 721
+            }
+          ]
+        }
+      ],
+      "OversizedParts": [],
+      "Warnings": [],
+      "Suggestions": []
+    }
+  ],
+  "OverallSummary": {
+    "TotalMaterialsUsed": 64,
+    "TotalUsedLength": 123160,
+    "OverallUtilization": 0.9622,
+    "TotalWaste": 1888,
+    "TotalHoleWaste": 0
+  }
+}

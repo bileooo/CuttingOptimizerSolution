@@ -1,0 +1,11 @@
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\bin\Debug\net8.0\CuttingOptimizer.Models.deps.json
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\bin\Debug\net8.0\CuttingOptimizer.Models.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\bin\Debug\net8.0\CuttingOptimizer.Models.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.AssemblyInfoInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.AssemblyInfo.cs
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.csproj.CoreCompileInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\refint\CuttingOptimizer.Models.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\CuttingOptimizer.Models.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.Models\obj\Debug\net8.0\ref\CuttingOptimizer.Models.dll

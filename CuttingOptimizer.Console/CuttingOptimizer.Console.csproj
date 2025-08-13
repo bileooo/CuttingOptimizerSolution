@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<OutputType>Exe</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\CuttingOptimizer.Core\CuttingOptimizer.Core.csproj" />
+		<ProjectReference Include="..\CuttingOptimizer.DataProcessor\CuttingOptimizer.DataProcessor.csproj" />
+		<ProjectReference Include="..\CuttingOptimizer.IOHelper\CuttingOptimizer.IOHelper.csproj" />
+		<ProjectReference Include="..\CuttingOptimizer.Models\CuttingOptimizer.Models.csproj" />
+	</ItemGroup>
+
+</Project>

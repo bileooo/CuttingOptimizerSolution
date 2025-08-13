@@ -1,0 +1,17 @@
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.IOHelper.deps.json
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.IOHelper.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.IOHelper.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.DataProcessor.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.Models.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.DataProcessor.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\bin\Debug\net8.0\CuttingOptimizer.Models.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.csproj.AssemblyReference.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.AssemblyInfoInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.AssemblyInfo.cs
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.csproj.CoreCompileInputs.cache
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingO.3A5D4F52.Up2Date
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\refint\CuttingOptimizer.IOHelper.dll
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\CuttingOptimizer.IOHelper.pdb
+D:\一维下料实习算法改进\CuttingOptimizerSolution\CuttingOptimizer.IOHelper\obj\Debug\net8.0\ref\CuttingOptimizer.IOHelper.dll
