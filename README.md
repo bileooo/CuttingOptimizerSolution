@@ -84,37 +84,42 @@ Excel文件应包含以下列：
 - 超过3000个部件时自动启用简化算法
 - 按功能定义和部件编号分组处理
 - 内存优化和性能提升
-
+  
 ## 项目结构
-├── CuttingOptimizer.Console/                # 控制台应用程序
-│   └── Program.cs                           # 程序入口点
-├── CuttingOptimizer.Core/                   # 核心算法模块
-│   └── Core/
-│       ├── AdvancedGreedyAlgorithm.cs       # 改进贪心算法
-│       └── ICuttingAlgorithm.cs             # 算法接口
-├── CuttingOptimizer.Models/                 # 数据模型
-│   └── Models/
-│       ├── Part.cs                          # 部件模型
-│       ├── CuttingResult.cs                 # 切割结果模型
-│       ├── CuttingPlan.cs                   # 切割方案模型
-│       ├── HoleConfiguration.cs             # 孔洞配置模型
-│       ├── CutPart.cs                       # 切割部件模型
-│       ├── OptimizationModels.cs            # 优化模型
-│       └── OversizedPart.cs                 # 超长部件模型
-├── CuttingOptimizer.DataProcessor/          # 数据处理模块
-│   └── DataProcessor/
-│       ├── ExcelReader.cs                   # Excel读取器
-│       ├── IExcelReader.cs                  # Excel读取接口
-│       ├── ResultFormatter.cs               # 结果格式化器
-│       └── IResultFormatter.cs              # 结果格式化接口
-├── CuttingOptimizer.IOHelper/               # 输入输出辅助
-│   └── IOHelper/
-│       ├── ConsoleInputHelper.cs            # 控制台输入辅助
-│       ├── IInputHelper.cs                  # 输入辅助接口
-│       └── LicenseHelper.cs                 # 许可证辅助
-├── DatabaseScripts/                         # 数据库脚本
-├── Templates/                               # 模板文件
-└── README.md                                # 项目说明
+├── CuttingOptimizer.Console/                      # 控制台应用程序     
+│          └── Program.cs                                 # 程序入口点    
+     
+├── CuttingOptimizer.Core/                         # 核心算法模块       
+│   └── Core/         
+│       ├── AdvancedGreedyAlgorithm.cs            # 改进贪心算法       
+│       └── ICuttingAlgorithm.cs                  # 算法接口   
+     
+├── CuttingOptimizer.Models/                       # 数据模型          
+│   └── Models/       
+│       ├── Part.cs                                # 部件模型        
+│       ├── CuttingResult.cs                       # 切割结果模型        
+│       ├── CuttingPlan.cs                         # 切割方案模型     
+│       ├── HoleConfiguration.cs                   # 孔洞配置模型      
+│       ├── CutPart.cs                             # 切割部件模型     
+│       ├── OptimizationModels.cs                  # 优化模型    
+│       └── OversizedPart.cs                       # 超长部件模型       
+        
+├── CuttingOptimizer.DataProcessor/                # 数据处理模块        
+│   └── DataProcessor/       
+│       ├── ExcelReader.cs                         # Excel读取器      
+│       ├── IExcelReader.cs                        # Excel读取接口        
+│       ├── ResultFormatter.cs                     # 结果格式化器           
+│       └── IResultFormatter.cs                    # 结果格式化接口  
+         
+├── CuttingOptimizer.IOHelper/                     # 输入输出辅助          
+│   └── IOHelper/       
+│       ├── ConsoleInputHelper.cs                  # 控制台输入辅助        
+│       ├── IInputHelper.cs                        # 输入辅助接口        
+│       └── LicenseHelper.cs                       # 许可证辅助    
+      
+├── DatabaseScripts/                               # 数据库脚本          
+├── Templates/                                     # 模板文件          
+└── README.md                                      # 项目说明           
 
 ## 算法特点
 
